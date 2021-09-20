@@ -5,6 +5,7 @@
  * @author cat & victornpb
  * @source https://github.com/cat-marin/undiscord-plugin
  * @website https://victornpb.github.io/deleteDiscordMessages/
+ * @donate https://www.buymeacoffee.com/vitim
  */
 
 
