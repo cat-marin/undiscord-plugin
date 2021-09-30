@@ -8,6 +8,9 @@ undiscord, but it's a plugin.
 # why
 why not? i used it in the browser, but wanted it available in the electron app without having to inject code into the console.
 
+# bugs
+- the get button only works for guild/channel, i do not plan on fixing this
+
 # disclaimer
 i am not the original creator of undiscord nor do i claim to be! that would be victornpb. 
 
